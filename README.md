@@ -1,10 +1,8 @@
 <img src="assets/main-app.png"/>
 
-# Version
+# Tecnologie
 
-Vue.js v2.7.16
-SQlite3
-php 8
+Vue.js v2.7.16, SQlite3, php 8
 
 # Test unit
 
