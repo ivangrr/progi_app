@@ -2,7 +2,7 @@
 
 <img src="assets/main-app.png"/>
 
-# Tecnologie
+# Technology
 
 Vue.js v2.7.16, SQlite3, php 8
 
